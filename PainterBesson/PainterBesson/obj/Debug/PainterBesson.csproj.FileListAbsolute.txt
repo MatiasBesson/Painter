@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PainterBesson\PainterBesson\obj\Debug\PainterBesson.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PainterBesson\PainterBesson\obj\Debug\PainterBesson.Form1.resources
+C:\Users\User\source\repos\PainterBesson\PainterBesson\obj\Debug\PainterBesson.Properties.Resources.resources
+C:\Users\User\source\repos\PainterBesson\PainterBesson\obj\Debug\PainterBesson.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PainterBesson\PainterBesson\obj\Debug\PainterBesson.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PainterBesson\PainterBesson\bin\Debug\PainterBesson.exe.config
+C:\Users\User\source\repos\PainterBesson\PainterBesson\bin\Debug\PainterBesson.exe
+C:\Users\User\source\repos\PainterBesson\PainterBesson\bin\Debug\PainterBesson.pdb
+C:\Users\User\source\repos\PainterBesson\PainterBesson\obj\Debug\PainterBesson.exe
+C:\Users\User\source\repos\PainterBesson\PainterBesson\obj\Debug\PainterBesson.pdb
+C:\Users\User\source\repos\PainterBesson\PainterBesson\obj\Debug\PainterBesson.Form2.resources
